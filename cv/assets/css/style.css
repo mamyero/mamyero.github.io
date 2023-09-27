@@ -98,7 +98,8 @@ body {
 	text-transform: uppercase;
 }
 .description {
-	width: calc(100% - 2rem);
+	/*width: calc(100% - 2rem);*/
+	text-align: center;
 }
 
 /* SECTION */
